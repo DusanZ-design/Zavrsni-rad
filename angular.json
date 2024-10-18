@@ -1,6 +1,5 @@
 {
   "$schema": "node_modules/@angular/cli/lib/config/schema.json",
-  "$id": "http://example.com/path/to/schema",
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
